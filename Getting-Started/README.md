@@ -1,0 +1,2 @@
+# Getting Started
+The purpose of this section is to help the student install and find all of the tools they will be using throughout this course. Not all of the tools, utilized in this course, will be needed right off. This will be a valuable resource to reference when you are first getting started.
